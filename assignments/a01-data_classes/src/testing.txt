@@ -1,0 +1,74 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Iman Chaudhry
+Version: 2023-01-23
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter values (seperated by a comma): 1, 2, 0, 1, 4, 1, 1, 2, 2, 5, 4, 3, 1, 3, 3, 4, 2, 4, 3, 1, 3, 0, 3, 0, 0
+Cleaned List: [1, 2, 0, 4, 5, 3]
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Uppercase Letters:    81
+Lowercase Letters:    698
+Digits:               132
+Whitespace Characters:326
+Remaining Characters: 1087
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Genres
+ 0 science fiction
+ 1 fantasy
+ 2 drama
+ 3 romance
+ 4 comedy
+ 5 zombie
+ 6 action
+ 7 historical
+ 8 horror
+ 9 war
+10 mystery
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+String: It was a really, really, big assignment.
+Sub: real
+[9, 17]
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Variable Name: var?
+False
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Matrix: [[0, 2, 4, 6, 8], [1, 3, 5, 7, 9]] 
+Transposed Matrix: [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9]]
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+[2, 2, 9, 16, 25]
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter a string: car
+arcay
+
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+JUOBQQFBSTOUIBUOPOUBSJPVTOQPJOUOQFMFFOOBUJPOBMOQBSLOIBTOMPTUOJUTOQPJOUCOUIFOTPVUIFSONPTUOSUJQOPGODBOBEBOJTOJOOUIFOQBSLAOOFBSOUIFOUPXOOPGOMFBNJOHUPOCOUIFSFOIBWFOBMXBZTOCFFOOTFWFSBMOSIVOESFEONFUSFTOPGOTBOEOKVUUJOHOPVUOGSPNOUIFONBJOMBOECOCVUOQBSLOPGGJDJBMTOTBZOSFDFOUOIJHIOSXJOETOIBWFOXBTIFEOBXBZOUIFOTBOEOQPJOUOBOEOBMMOUIBUOSFNBJOTOJTOBOQMBUGPSNCOUIFOQBSLOBEWFSUJTFTOSJUTFMGOBTOUIFOTPVUIFSONPTUOUJQOPGODBOBEBVTONBJOMBOEAOBUOUIFOTBNFOMBUJUVEFOBTOOPSUIFSOOSDBMJGPSOJBAOBOEOBUUSBDUTONPSFOUIBOOIEEAEEEOWJTJUPSTOQFSOZFBSCOBOQBSLOPGGJDJBMOTBZTOBOOPOSTXJNNJOHOTJHOOUIBUOVTFEOUPONBSLOUIFOTPVUIFSONPTUOQPJOUOXBTIFEOVQOPOOBOCFBDIOJOONBEJTPOAOPIJPAOSBCPVUOFEEOLJMPNFUSFTOBDSPTTOMBLFOFSJFCOPGGJDJBMTOTBZOUIFOTBOEOQBUUFSOTOBUOUIFOQPJOUODIBOHFOSGSFRVFOUMZAOCVUOUIJTOJTOUIFOGJSTUOUJNFOUIFOQPJOUOIBTOEJTBQQFBSFEODPNQMFUFMZC
+-------------------------------------------------------

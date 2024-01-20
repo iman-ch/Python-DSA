@@ -1,0 +1,228 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Iman Chaudhry
+Version: 2023-03-24
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Hashes
+Hash     Slot Key
+-------- ---- --------------------
+ 1652346    3  Dark City, 1998
+  848448    6  Zulu, 1964
+ 1810314    2  I Am Legend, 2007
+ 2306070    4  Omega Man, The, 1971
+
+-------------------------------------------------------
+t02
+1
+2
+3
+4
+
+1
+2
+4
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+7 Slots
+----------------------------------------
+Slot 0
+
+----------------------------------------
+Slot 1
+
+----------------------------------------
+Slot 2
+
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action
+----------------------------------------
+Slot 3
+
+----------------------------------------
+Slot 4
+
+Title:    Omega Man, The
+Year:     1971
+Director: Boris Sagal
+Rating:   6.6
+Genres:   science fiction, action
+----------------------------------------
+Slot 5
+
+----------------------------------------
+Slot 6
+
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war
+----------------------------------------
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+7 Slots
+----------------------------------------
+Slot 0
+
+----------------------------------------
+Slot 1
+
+----------------------------------------
+Slot 2
+
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action
+Title:    Last Man On Earth, The
+Year:     1964
+Director: Ubaldo Ragona
+Rating:   6.9
+Genres:   science fiction
+----------------------------------------
+Slot 3
+
+Title:    Dark City
+Year:     1998
+Director: Alex Proyas
+Rating:   7.8
+Genres:   science fiction
+----------------------------------------
+Slot 4
+
+Title:    Omega Man, The
+Year:     1971
+Director: Boris Sagal
+Rating:   6.6
+Genres:   science fiction, action
+----------------------------------------
+Slot 5
+
+----------------------------------------
+Slot 6
+
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+----------------------------------------
+
+REHASHED SET...
+15 Slots
+----------------------------------------
+Slot 0
+
+Title:    Omega Man, The
+Year:     1971
+Director: Boris Sagal
+Rating:   6.6
+Genres:   science fiction, action
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+----------------------------------------
+Slot 1
+
+----------------------------------------
+Slot 2
+
+----------------------------------------
+Slot 3
+
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war
+----------------------------------------
+Slot 4
+
+----------------------------------------
+Slot 5
+
+----------------------------------------
+Slot 6
+
+Title:    Dark City
+Year:     1998
+Director: Alex Proyas
+Rating:   7.8
+Genres:   science fiction
+----------------------------------------
+Slot 7
+
+Title:    Last Man On Earth, The
+Year:     1964
+Director: Ubaldo Ragona
+Rating:   6.9
+Genres:   science fiction
+----------------------------------------
+Slot 8
+
+----------------------------------------
+Slot 9
+
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action
+Title:    Juno
+Year:     2007
+Director: Jason Reitman
+Rating:   7.7
+Genres:   romance, comedy
+----------------------------------------
+Slot 10
+
+----------------------------------------
+Slot 11
+
+----------------------------------------
+Slot 12
+
+----------------------------------------
+Slot 13
+
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+----------------------------------------
+Slot 14
+
+----------------------------------------

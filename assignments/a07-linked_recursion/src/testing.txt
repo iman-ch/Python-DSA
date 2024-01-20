@@ -1,0 +1,349 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Iman Chaudhry
+Version: 2023-03-15
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Printing the first item: 
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+
+Printing first item: 
+Title:    Broken Flowers
+Year:     2005
+Director: Jim Jarmusch
+Rating:   7.2
+Genres:   romance, comedy
+
+Printing count of each item: 
+Name                                Count
+---------------------------------   -----
+Broken Flowers                          2
+Dellamorte Dellamore                    1
+Dark City                               1
+Zulu                                    1
+I Am Legend                             1
+Omega Man, The                          1
+Last Man On Earth, The                  1
+Alphaville                              1
+Stardust                                1
+Juno                                    1
+Darjeeling Limited, The                 1
+Broken Flowers                          2
+Star Wars: Episode IV - A New Hope      1
+Horror of Dracula                       1
+Jason and the Argonauts                 1
+Wrong Box, The                          1
+Finding Dory                            1
+Manos: The Hands of Fate                1
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The     1
+Z                                       1
+Wonder Woman                            1
+Zulu                                    1
+
+Printing count of each item: 
+Broken Flowers                          2
+Dellamorte Dellamore                    1
+Dark City                               1
+Zulu                                    1
+I Am Legend                             1
+Omega Man, The                          1
+Last Man On Earth, The                  1
+Alphaville                              1
+Stardust                                1
+Juno                                    1
+Darjeeling Limited, The                 1
+Broken Flowers                          2
+Star Wars: Episode IV - A New Hope      1
+Horror of Dracula                       1
+Jason and the Argonauts                 1
+Wrong Box, The                          1
+Finding Dory                            1
+Manos: The Hands of Fate                1
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The     1
+Z                                       1
+Wonder Woman                            1
+Zulu                                    1
+
+Printing count of each item in lst3: 
+Name                                Count
+---------------------------------   -----
+Broken Flowers                          2
+Dellamorte Dellamore                    2
+Dellamorte Dellamore                    2
+Dark City                               2
+Dark City                               2
+Zulu                                    2
+Zulu                                    2
+I Am Legend                             2
+I Am Legend                             2
+Omega Man, The                          2
+Omega Man, The                          2
+Last Man On Earth, The                  2
+Last Man On Earth, The                  2
+Alphaville                              2
+Alphaville                              2
+Stardust                                2
+Stardust                                2
+Juno                                    2
+Juno                                    2
+Darjeeling Limited, The                 2
+Darjeeling Limited, The                 2
+Broken Flowers                          2
+Star Wars: Episode IV - A New Hope      1
+Horror of Dracula                       1
+Jason and the Argonauts                 1
+Wrong Box, The                          1
+Finding Dory                            1
+Manos: The Hands of Fate                1
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The     1
+Z                                       1
+Wonder Woman                            1
+Zulu                                    1
+
+Printing count of each item in lst2: 
+Name                                Count
+---------------------------------   -----
+Dark City                               1
+Zulu                                    1
+I Am Legend                             1
+Omega Man, The                          1
+
+lst1 and lst2 are identical?: 
+True
+
+Printing the removed value: 
+Title:    Dark City
+Year:     1998
+Director: Alex Proyas
+Rating:   7.8
+Genres:   science fiction
+
+Printing count of each item in lst3: 
+Name                                Count
+---------------------------------   -----
+Broken Flowers                          2
+Dellamorte Dellamore                    2
+Dellamorte Dellamore                    2
+Dark City                               2
+Dark City                               2
+Zulu                                    2
+Zulu                                    2
+I Am Legend                             2
+I Am Legend                             2
+Omega Man, The                          2
+Omega Man, The                          2
+Last Man On Earth, The                  2
+Last Man On Earth, The                  2
+Alphaville                              2
+Alphaville                              2
+Stardust                                2
+Stardust                                2
+Juno                                    2
+Juno                                    2
+Darjeeling Limited, The                 2
+Darjeeling Limited, The                 2
+Broken Flowers                          2
+Star Wars: Episode IV - A New Hope      1
+Horror of Dracula                       1
+Jason and the Argonauts                 1
+Wrong Box, The                          1
+Finding Dory                            1
+Manos: The Hands of Fate                1
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The     1
+Z                                       1
+Wonder Woman                            1
+Zulu                                    1
+
+Printing count of each item in lst3: 
+Name                                Count
+---------------------------------   -----
+Broken Flowers                          2
+Dark City                               2
+Dark City                               2
+Zulu                                    2
+Zulu                                    2
+I Am Legend                             2
+I Am Legend                             2
+Omega Man, The                          2
+Omega Man, The                          2
+Last Man On Earth, The                  2
+Last Man On Earth, The                  2
+Alphaville                              2
+Alphaville                              2
+Stardust                                2
+Stardust                                2
+Juno                                    2
+Juno                                    2
+Darjeeling Limited, The                 2
+Darjeeling Limited, The                 2
+Broken Flowers                          2
+Star Wars: Episode IV - A New Hope      1
+Horror of Dracula                       1
+Jason and the Argonauts                 1
+Wrong Box, The                          1
+Finding Dory                            1
+Manos: The Hands of Fate                1
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The     1
+Z                                       1
+Wonder Woman                            1
+Zulu                                    1
+
+Printing count of each item in target1: 
+Name                                Count
+---------------------------------   -----
+Broken Flowers                          1
+Dark City                               2
+Dark City                               2
+Zulu                                    2
+Zulu                                    2
+I Am Legend                             2
+I Am Legend                             2
+Omega Man, The                          2
+Omega Man, The                          2
+Last Man On Earth, The                  2
+Last Man On Earth, The                  2
+Alphaville                              2
+Alphaville                              2
+Stardust                                2
+Stardust                                2
+
+Printing count of each item in target2: 
+Name                                Count
+---------------------------------   -----
+Juno                                    2
+Juno                                    2
+Darjeeling Limited, The                 2
+Darjeeling Limited, The                 2
+Broken Flowers                          1
+Star Wars: Episode IV - A New Hope      1
+Horror of Dracula                       1
+Jason and the Argonauts                 1
+Wrong Box, The                          1
+Finding Dory                            1
+Manos: The Hands of Fate                1
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The     1
+Z                                       1
+Wonder Woman                            1
+Zulu                                    1
+
+Printing count of each item in target3: 
+Name                                Count
+---------------------------------   -----
+Broken Flowers                          1
+Dark City                               1
+Zulu                                    1
+I Am Legend                             1
+Omega Man, The                          1
+Last Man On Earth, The                  1
+Alphaville                              1
+Stardust                                1
+
+Printing count of each item in target4: 
+Name                                Count
+---------------------------------   -----
+Dark City                               1
+Zulu                                    1
+I Am Legend                             1
+Omega Man, The                          1
+Last Man On Earth, The                  1
+Alphaville                              1
+Stardust                                1
+
+Printing count of each item in lst3: 
+Name                                Count
+---------------------------------   -----
+Broken Flowers                          1
+Dark City                               1
+Zulu                                    1
+I Am Legend                             1
+Omega Man, The                          1
+Last Man On Earth, The                  1
+Alphaville                              1
+Stardust                                1
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Printing count of each item: 
+title                                Count
+---------------------------------   -----
+Alphaville                              1
+Broken Flowers                          2
+Broken Flowers                          2
+Printing count of each item: 
+title                                Count
+---------------------------------   -----
+Alphaville                              1
+Broken Flowers                          1
+
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The in sl?: 
+False
+
+Index of Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The: 
+-1
+
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The from sl: 
+None
+
+Second item in sl: 
+Title:    Broken Flowers
+Year:     2005
+Director: Jim Jarmusch
+Rating:   7.2
+Genres:   romance, comedy
+
+First item in sl: 
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+
+Min value in sl: 
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+
+Max value in sl: 
+Title:    Broken Flowers
+Year:     2005
+Director: Jim Jarmusch
+Rating:   7.2
+Genres:   romance, comedy
+
+Remove first value in sl: 
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+
+Remove Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The from sl: 
+None
+
+Printing count of each item in sl3: 
+title                                Count
+---------------------------------   -----
+
+sl2 and sl3 are identical?: 
+False
+
+Printing count of each item in sl4: 
+title                                Count
+---------------------------------   -----
+Alphaville                              1
+Darjeeling Limited, The                 1
+
+
